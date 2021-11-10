@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# GitIgnore
+/data
+/Data
+
 # C extensions
 *.so
 
